@@ -1,5 +1,4 @@
 # hello-world
-The first repository
 Hi there!
 
 Caitlyn here, I like Node.js and Coffeescript.
